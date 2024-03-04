@@ -1,0 +1,42 @@
+.topnav :hover{
+    background-color: aqua;
+    color: black;
+    font-size: medium;
+}
+
+#container{
+    border: solid 2px;
+    margin: 7%;
+background-color: plum;
+    
+}
+.content{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 5% 5%;
+margin: auto;
+height: 10%;
+}
+.content2{
+    display: inline-flex;
+    padding-left: 5%;
+    
+}
+#container2{
+    border: none;
+    background-color: aquamarine;
+    margin: 7%;
+}
+#button{
+background-color: black;
+color: aliceblue;
+border-radius: 50%;
+width: 30%;
+height: 10%;
+}
+#words{
+    font-size: xx-large;
+}
+
+    
+  
